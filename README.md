@@ -1,4 +1,4 @@
-# ML_LAB_RECODE
+# ML_LAB_RECORD
 
 # 🧠 Machine Learning Lab
 
