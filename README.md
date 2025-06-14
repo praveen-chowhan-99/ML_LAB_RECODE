@@ -5,9 +5,7 @@
 Welcome to the Machine Learning Lab repository! This repository contains the implementation of 10 core machine learning experiments completed as part of the academic lab course.
 
 ## 🔬 Lab Details
-- **Name:**Korra Praveen
-- **ID:**B200039
-- **Class:**CSE-C1
+
 - **Course Name:** Machine Learning Laboratory 
 - **Campus:** RGUKT Basar 
 - **Instructor:** Sujay Sarkar Sir 
@@ -31,3 +29,10 @@ Welcome to the Machine Learning Lab repository! This repository contains the imp
 | 8️⃣ | Model Evaluation & Cross Validation | Evaluated models using confusion matrix, precision, recall, F1-score, and cross-validation techniques |
 
 ---
+## ✍️ Author
+
+- **Name:** Korra Praveen  
+- **ID:** B200039  
+- **Class:** CSE-C1  
+- **Year:** 3rd Year B.Tech CSE  
+- **Campus:** RGUKT Basar
